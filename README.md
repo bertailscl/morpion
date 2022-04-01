@@ -1,3 +1,4 @@
 # Morpion
 ## By Clément Bertails
-Contient un programme pour jouer au morpion.
+
+Contient un programme permettant de jouer au morpion.
